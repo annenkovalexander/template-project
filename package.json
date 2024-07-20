@@ -1,0 +1,22 @@
+{
+  "name": "template-project",
+  "version": "1.0.0",
+  "description": "template project for HTML CSS with linters",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/annenkovalexander/template-project.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Alexander Annenkov",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/annenkovalexander/template-project/issues"
+  },
+  "homepage": "https://github.com/annenkovalexander/template-project#readme"
+}
